@@ -1,7 +1,7 @@
 ### Nishiumi Daina 👋
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishiumidaina&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishiumidaina&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishiumidaina&theme=dracula&utcOffset=8)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishiumidaina&theme=dracula" width="700">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishiumidaina&theme=dracula" width="330">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishiumidaina&theme=dracula&utcOffset=8" width="330">
 <!--
 **nishiumidaina/nishiumidaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
