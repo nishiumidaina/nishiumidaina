@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic">
   <img src="https://img.shields.io/badge/-Vagrant-1563FF.svg?logo=vagrant&style=plastic">
   <img src="https://img.shields.io/badge/-Jenkins-D24939.svg?logo=jenkins&style=plastic">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37.svg?logo=postman&style=plastic">
   <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">
   <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">
 </p>
