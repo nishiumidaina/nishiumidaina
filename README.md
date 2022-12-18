@@ -1,5 +1,5 @@
 ### Nishiumi Daina 👋
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishiumidaina&theme=dracula" width="845">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishiumidaina&theme=dracula" width="847">
 <p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishiumidaina&theme=dracula" width="418">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishiumidaina&theme=dracula&utcOffset=8" width="418">
