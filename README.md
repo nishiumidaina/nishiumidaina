@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=plastic">
   <img src="https://img.shields.io/badge/-Jquery-0769AD.svg?logo=jquery&style=plastic">
   <img src="https://img.shields.io/badge/-Laravel-E74430.svg?logo=laravel&style=plastic">
-  <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=plastic">
+  <img src="https://img.shields.io/badge/-Django-008080.svg?logo=django&style=plastic">
   <img src="https://img.shields.io/badge/-FastAPI-66cdaa.svg?logo=&style=plastic">
   <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=plastic">
   <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=plastic">
