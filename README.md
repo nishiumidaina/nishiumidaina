@@ -1,5 +1,5 @@
 ### Nishiumi Daina 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishiumidaina)](https://github.com/nishiumidaina)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishiumidaina&layout=compact&langs_count=8)](https://github.com/nishiumidaina)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishiumidaina&card_width=280)](https://github.com/nishiumidaina) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishiumidaina&layout=compact&langs_count=8)](https://github.com/nishiumidaina)
 <!--
 **nishiumidaina/nishiumidaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
