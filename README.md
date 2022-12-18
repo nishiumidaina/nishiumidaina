@@ -1,6 +1,6 @@
 ### Nishiumi Daina 👋
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishiumidaina&theme=default)
- [![My languages](https://github-stats-evirunurm.vercel.app/api/languages.js?username=nishiumidaina)](https://github.com/nishiumidaina)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishiumidaina&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishiumidaina&theme=dracula)
 <!--
 **nishiumidaina/nishiumidaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
