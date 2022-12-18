@@ -29,10 +29,6 @@
   <img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic">
 </p>
 <p>
-  <img src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=plastic">
-  <img src="https://img.shields.io/badge/-Postgresql-336791.svg?logo=postgresql&style=plastic">
-</p>
-<p>
   <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=plastic">
   <img src="https://img.shields.io/badge/-Google%20cloud-4285F4.svg?logo=google-cloud&style=plastic">
   <img src="https://img.shields.io/badge/-Heroku-430098.svg?logo=heroku&style=plastic">
