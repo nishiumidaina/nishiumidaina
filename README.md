@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=plastic">
   <img src="https://img.shields.io/badge/-Flask-000000.svg?logo=flask&style=plastic">
   <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=plastic">
+  <img src="https://img.shields.io/badge/-Android%20Studio-00bfff.svg?logo=android&style=plastic">
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=plastic">
 </p>
 <p>
@@ -22,9 +23,31 @@
   <img src="https://img.shields.io/badge/-Cashapp-00C244.svg?logo=cashapp&style=plastic">
   <img src="https://img.shields.io/badge/-Cplusplus-00599C.svg?logo=cplusplus&style=plastic">
   <img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5.svg?logo=kotlin&style=plastic">
   <img src="https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic">
   <img src="https://img.shields.io/badge/-Sass-CC6699.svg?logo=sass&style=plastic">
   <img src="https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-Mysql-4479A1.svg?logo=mysql&style=plastic">
+  <img src="https://img.shields.io/badge/-Postgresql-336791.svg?logo=postgresql&style=plastic">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=plastic">
+  <img src="https://img.shields.io/badge/-Google%20cloud-4285F4.svg?logo=google-cloud&style=plastic">
+  <img src="https://img.shields.io/badge/-Heroku-430098.svg?logo=heroku&style=plastic">
+  <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=linux&style=plastic">
+  <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic">
+  <img src="https://img.shields.io/badge/-Vagrant-1563FF.svg?logo=vagrant&style=plastic">
+  <img src="https://img.shields.io/badge/-Jenkins-D24939.svg?logo=jenkins&style=plastic">
+  <img src="https://img.shields.io/badge/-Github-181717.svg?logo=github&style=plastic">
+  <img src="https://img.shields.io/badge/-Git-F05032.svg?logo=git&style=plastic">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/-Adobe%20photoshop-00C8FF.svg?logo=adobe-photoshop&style=plastic">
+  <img src="https://img.shields.io/badge/-Adobe%20illustrator-FF7C00.svg?logo=adobe-illustrator&style=plastic">
+  <img src="https://img.shields.io/badge/-Adobe%20indesign-FD3F93.svg?logo=adobe-indesign&style=plastic">
+  <img src="https://img.shields.io/badge/-Adobe%20xd-FF2BC2.svg?logo=adobe-xd&style=plastic">
   
 </p>
 <!--
